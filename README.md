@@ -56,50 +56,50 @@
   </a>
 </p>
 
----
+👨‍💻 About Me
 
-## 👨‍💻 About Me
+I'm a Computer Science & Engineering student who enjoys understanding how software works beneath the surface — from APIs and databases to authentication, security, performance, and system design.
 
-I'm a **Computer Science & Engineering student** who enjoys understanding how software works beneath the surface — from APIs and databases to authentication, security, performance, and system design.
+My current focus is backend engineering, while exploring the intersection of application security and AI.
 
-My current focus is **backend engineering**, while exploring the intersection of **application security and AI**.
-
-```text
 Backend Engineering     → APIs • Databases • Authentication • Scalability
 Security                 → Secure-by-design systems • Threat detection • Integrity
 AI                       → AI-assisted security tools • LLM integrations
 Problem Solving          → DSA • Competitive programming • LeetCode
 Engineering              → Git • Linux • Testing • Docker • Cloud
-```
 
-### 🎯 What I'm Working Toward
+🎯 What I'm Working Toward
 
-* Building strong foundations in **Data Structures & Algorithms**
-* Becoming a **production-minded backend engineer**
-* Learning **system design and distributed systems**
-* Building software with **security as a first-class concern**
-* Exploring practical applications of **AI in developer and security tooling**
-* Contributing to **open source** and real-world projects
-* Turning hackathon ideas into projects that are actually useful beyond the demo
+Building strong foundations in Data Structures & Algorithms
 
-> **Build it. Break it. Understand it. Make it better.**
+Becoming a production-minded backend engineer
 
----
+Learning system design and distributed systems
 
-## 🚀 Featured Projects
+Building software with security as a first-class concern
+
+Exploring practical applications of AI in developer and security tooling
+
+Contributing to open source and real-world projects
+
+Turning hackathon ideas into projects that are actually useful beyond the demo
+
+Build it. Break it. Understand it. Make it better.
+
+🚀 Featured Projects
 
 <table width="100%">
   <tr>
     <td width="33%" valign="top">
 
-### 🔍 VulnLens
+🔍 VulnLens
 
-**AI-assisted application security scanner**
+AI-assisted application security scanner
 
 A security-focused tool that combines deterministic vulnerability detection with AI-powered explanations and developer-friendly reporting.
 
-**Focus:**
-`Security` `Static Analysis` `SARIF` `AI`
+Focus:
+Security Static Analysis SARIF AI
 
 <a href="https://github.com/Ashish-Netam011/VulnLens-">
   <img src="https://img.shields.io/badge/View%20Project-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="VulnLens repository" />
@@ -109,14 +109,14 @@ A security-focused tool that combines deterministic vulnerability detection with
 
 <td width="33%" valign="top">
 
-### 🔐 Secure-Case
+🔐 Secure-Case
 
-**Secure digital document management**
+Secure digital document management
 
 A security-focused platform designed around document integrity, authorization, auditability, controlled access, and AI-assisted document analysis.
 
-**Focus:**
-`Security` `Backend` `Document Integrity` `AI`
+Focus:
+Security Backend Document Integrity AI
 
 <a href="https://github.com/Ashish-Netam011/Secure-Case">
   <img src="https://img.shields.io/badge/View%20Project-EF93C4?style=for-the-badge&logo=github&logoColor=white" alt="Secure-Case repository" />
@@ -126,14 +126,14 @@ A security-focused platform designed around document integrity, authorization, a
 
 <td width="33%" valign="top">
 
-### 🛡️ ScamShield
+🛡️ ScamShield
 
-**Evidence-first scam investigation**
+Evidence-first scam investigation
 
 A security tool designed around deterministic analysis first, with AI used as an explanation layer rather than the source of truth.
 
-**Focus:**
-`Security` `Threat Analysis` `AI` `Next.js`
+Focus:
+Security Threat Analysis AI Next.js
 
 <a href="https://github.com/Ashish-Netam011/ScamShield">
   <img src="https://img.shields.io/badge/View%20Project-F8BBD0?style=for-the-badge&logo=github&logoColor=1a1a2e" alt="ScamShield repository" />
@@ -143,17 +143,14 @@ A security tool designed around deterministic analysis first, with AI used as an
   </tr>
 </table>
 
----
-
-## 🧠 Current Learning
+🧠 Current Learning
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,js,ts,nodejs,express,react,python,mongodb,postgres,redis,docker,linux,git,github&perline=7" alt="Technologies" />
 </p>
 
-### Backend Roadmap
+Backend Roadmap
 
-```text
 JavaScript / TypeScript
         ↓
 HTTP & Web Fundamentals
@@ -175,15 +172,12 @@ Cloud & AWS
 System Design
         ↓
 Advanced Backend Engineering
-```
 
-I'm especially interested in understanding **why systems are designed the way they are**, rather than simply learning frameworks.
+I'm especially interested in understanding why systems are designed the way they are, rather than simply learning frameworks.
 
----
+💻 Problem Solving
 
-## 💻 Problem Solving
-
-I use **LeetCode** to strengthen my problem-solving and DSA fundamentals.
+I use LeetCode to strengthen my problem-solving and DSA fundamentals.
 
 <p align="center">
   <a href="https://leetcode.com/u/Ashish_Netam/">
@@ -196,43 +190,38 @@ I use **LeetCode** to strengthen my problem-solving and DSA fundamentals.
 
 My current focus is building a strong understanding of:
 
-`Arrays` → `Hashing` → `Two Pointers` → `Sliding Window` → `Stacks` → `Queues` → `Linked Lists` → `Trees` → `Graphs` → `Dynamic Programming`
+Arrays → Hashing → Two Pointers → Sliding Window → Stacks → Queues → Linked Lists → Trees → Graphs → Dynamic Programming
 
-> I care more about understanding the pattern behind a problem than memorizing its solution.
+I care more about understanding the pattern behind a problem than memorizing its solution.
 
----
+🛠️ Tech Stack
 
-## 🛠️ Tech Stack
-
-### Languages
+Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,js,ts,python" alt="Programming languages" />
 </p>
 
-### Backend & Databases
+Backend & Databases
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis" alt="Backend technologies" />
 </p>
 
-### Frontend
+Frontend
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" alt="Frontend technologies" />
 </p>
 
-### Tools & Engineering
+Tools & Engineering
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode" alt="Developer tools" />
 </p>
 
----
+🔐 What I Care About
 
-## 🔐 What I Care About
-
-```text
 Security
   ├── Authentication & Authorization
   ├── Data Integrity
@@ -252,15 +241,12 @@ AI
   ├── Security Tooling
   ├── Developer Tools
   └── Human-in-the-loop Systems
-```
 
 One principle I try to follow:
 
-> **AI should assist the system, not replace its source of truth.**
+AI should assist the system, not replace its source of truth.
 
----
-
-## 📊 GitHub Activity
+📊 GitHub Activity
 
 <p align="center">
   <img
@@ -277,9 +263,7 @@ One principle I try to follow:
   />
 </p>
 
----
-
-## 🐍 Contribution Snake
+🐍 Contribution Snake
 
 <p align="center">
   <picture>
@@ -299,21 +283,23 @@ One principle I try to follow:
   </picture>
 </p>
 
----
+📌 A Little More About Me
 
-## 📌 A Little More About Me
+🎓 CSE student focused on becoming a strong software engineer
 
-* 🎓 CSE student focused on becoming a strong software engineer
-* 🔐 Interested in **application security and secure system design**
-* ⚙️ Currently going deeper into **backend engineering**
-* 🧩 Practicing **DSA and problem solving**
-* 🤖 Exploring **AI-powered developer and security tools**
-* 🚀 I enjoy building projects where I can learn something genuinely difficult
-* 🌱 Constantly experimenting, breaking things, fixing them, and learning from the process
+🔐 Interested in application security and secure system design
 
----
+⚙️ Currently going deeper into backend engineering
 
-## 🌐 Find Me
+🧩 Practicing DSA and problem solving
+
+🤖 Exploring AI-powered developer and security tools
+
+🚀 I enjoy building projects where I can learn something genuinely difficult
+
+🌱 Constantly experimenting, breaking things, fixing them, and learning from the process
+
+🌐 Find Me
 
 <p align="center">
   <a href="https://github.com/Ashish-Netam011">
@@ -323,8 +309,6 @@ One principle I try to follow:
     <img src="https://img.shields.io/badge/LeetCode-Ashish__Netam-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
 </p>
-
----
 
 <p align="center">
   <i>Still learning. Still building. Still shipping.</i>
